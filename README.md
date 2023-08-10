@@ -2,8 +2,7 @@
 Hello Ramesh,
 Good day to You!
 
-Regarding the On-prem RQM Test Case Migration to Jira Cloud App “Zephyr-squad”, Can you please provide an update.
-Please feel free to connect.
+Please let me know your available time to connect and discuss On-prem RQM Test Case Migration to Jira Cloud App “Zephyr-squad”.
 
 Thanks & Regards
 Arpitha T
